@@ -1,6 +1,4 @@
-<style>
 
-        
 
         body {
             font-family: Arial, sans-serif;
@@ -121,7 +119,7 @@
             text-decoration: none;
             color: rgb(97, 164, 126);
         }
+
         .link:hover {
             color: rgb(51, 255, 0);
         }
-    </style>
